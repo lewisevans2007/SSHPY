@@ -1,6 +1,8 @@
 # SSH PY
 A ssh host manager for the windows terminal 
 
+![](https://raw.githubusercontent.com/awesomelewis2007/SSHPY/master/documentation/Main.png)
+
 ## Setup 
 First you need to install python to run this program. 
 
@@ -29,5 +31,8 @@ Then save the profile.
 
 Reopen the terminal and you should be able to see the SSH PY tab with a python icon.
 
+![](https://github.com/awesomelewis2007/SSHPY/blob/master/documentation/Select.png?raw=true)
+
 Now run the program from the drop down menu. It should take you so a setup that asks you for your hosts.
 
+![](https://github.com/awesomelewis2007/SSHPY/blob/master/documentation/Setup.png?raw=true)
