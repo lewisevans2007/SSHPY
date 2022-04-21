@@ -1,0 +1,8 @@
+{
+    "commandline": "python <location to main.py file use \\ to define a slash>",
+    "hidden": false,
+    "icon": "https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png",
+    "name": "SSH PY",
+    "startingDirectory": "Put this to where you installed SSH PY's main.py file ",
+    "tabTitle": "SSH PY"
+}
